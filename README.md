@@ -1,6 +1,7 @@
 ## Criar db_loja_informatica
 
 Criar Tabela: Produtos
+
 +----------+-------+--------+------+
 |id_produto|nome   |marca   |preço |
 +----------+-------+--------+------+
