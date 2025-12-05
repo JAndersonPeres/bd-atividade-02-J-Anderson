@@ -3,6 +3,7 @@
 Criar Tabela: Produtos
 
 +----------+-------+--------+------+
+
 |id_produto|nome   |marca   |preço |
 +----------+-------+--------+------+
 |1         |Mouse  |Logitech|87.99 |
